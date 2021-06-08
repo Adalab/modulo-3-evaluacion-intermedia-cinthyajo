@@ -1,7 +1,2 @@
-import React from "react";
-
-const App = () => {
-  return <div>Hola mundo</div>;
-};
-
-export default App;
+import React, { useState } from "react";
+import data from "../data/data.json";
